@@ -3,7 +3,11 @@ This repository contains code for Support Vector Classification (SVC) and Logist
 
 These are some screenshots of the Multiple Disease Prediction System webapp(images provided below)
 
-![Alt text](https://drive.google.com/file/d/1j3_emJsBdWsgUO9VRqCSu9AOhJUV9BS-/view?usp=sharing)
+![Alt text](https://github.com/Manav173/Multiple-Disease-Prediction/blob/main/Web%20App%20Screenshots/System%20Frontend.png)
+
+![Alt text]()
+
+![Alt text]()
 
 This is the screenshot of a test result the Diabetes Prediction System
 
